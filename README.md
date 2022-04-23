@@ -20,4 +20,3 @@ def show_post(post_id):
 def show_subpath(subpath):
     # show the subpath after /path/
     return 'subpath %s' % escape(subpath)
-
